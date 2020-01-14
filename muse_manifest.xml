@@ -1,0 +1,73 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a0507124.com" resolutions="1x" timestamp="1578972865870">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="4236110829" ref="index"/>
+    <file name="index.css" crc="3784630508" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="妖3-crop-u94.jpg" crc="301432970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="喔7.png" crc="3979627599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0326.jpg" crc="3895119840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖-crop-u147.png" crc="4177272203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖2-crop-u155.png" crc="17774253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖4-crop-u162.png" crc="3863993346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖3.png" crc="3997521553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖5.png" crc="456306575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖6.png" crc="300234673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖7.png" crc="4145037012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖8.png" crc="3842463066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖10.png" crc="393518361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖12.png" crc="220063670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖9.png" crc="4262541032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="妖11.png" crc="120276269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="喔1.jpg" crc="3794426557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="喔3.jpg" crc="3767593846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="喔5.png" crc="3882083617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="213291521" seo="true" mt="1578971212200" redirect="true"/>
+</manifest>
